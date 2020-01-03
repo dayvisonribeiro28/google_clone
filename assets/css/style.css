@@ -14,9 +14,6 @@ button:hover{
 ul, li, ol {
 	list-style: none;
 }
-body{
-	background-color: #878787;
-}
 .container{
 	display: flex;
 	flex-direction: column;
